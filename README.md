@@ -4,6 +4,9 @@ This is a **NestJs** backend for a task management application. It has been crea
 >* Dynamic module (UserModule, ConfigurationModule)
 >* Static module (TaskModule)
 >* Middleware (AuthenticateMiddleware)
+>* Exposed service (UserService)
+>* Basic service (TaskService)
+>* TypeORM (to use **SQLITE** database)
 
 ## Installation
 
